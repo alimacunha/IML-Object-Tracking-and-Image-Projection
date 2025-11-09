@@ -27,7 +27,7 @@ The final result is a clean overlay of tracked movement on a spatial map, enabli
 Below are two visual examples from the project:
 
 ### Spatial Plan
-![Spatial Plan](Images/plan.png)
+![Spatial Plan](Images/plan.jpg)
 
 ### Camera Tracking
-![Camera Tracking](Images/camera.png)
+![Camera Tracking](Images/camera.jpg)
