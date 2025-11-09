@@ -20,4 +20,14 @@ This project demonstrates how to learn and apply a 2D affine transformation to m
 - Comparative analysis of transformed regions to evaluate model fidelity  
 
 ## Outcome
-The final result is a clean overlay of tracked movement on a spatial map, enabling further analysis of motion patterns, speed, and positional accuracy.  
+The final result is a clean overlay of tracked movement on a spatial map, enabling further analysis of motion patterns, speed, and positional accuracy.
+
+## 📸 Examples
+
+Below are two visual examples from the project:
+
+### Spatial Plan
+![Spatial Plan](Images/plan.png)
+
+### Camera Tracking
+![Camera Tracking](Images/camera.png)
